@@ -1,6 +1,7 @@
 ### Hi there 👋
 欢迎查看我的github，我是邱权武，一个15岁开始写代码的程序。
-Here are some ideas to get you started:
+
+## Here are some ideas to get you started:
 
 - 🔭 我正在开发valgod
 - 🌱 我正在学习java
