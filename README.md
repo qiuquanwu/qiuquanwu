@@ -1,5 +1,5 @@
 ### Hi there 👋
-欢迎查看我的github，我是邱权武，一个15岁开始写代码的程序员。
+<!--欢迎查看我的github，我是邱权武，一个15岁开始写代码的程序员。
 
 ## Here are some ideas to get you started:
 
@@ -11,4 +11,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
