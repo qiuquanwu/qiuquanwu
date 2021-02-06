@@ -1,15 +1,14 @@
 ### Hi there 👋
-<!--欢迎查看我的github，我是邱权武，一个15岁开始写代码的程序员。
+欢迎查看我的github，我是邱权武，一个15岁开始写代码的程序员。
 
 ## Here are some ideas to get you started:
 
-- 🔭 我正在开发[valgod](https://github.com/qiuquanwu/ValGod)
-- 🌱 我正在学习java
-- 👯 我的[博客地址](https://blog.csdn.net/qq_38494372)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 1.基于vue3+渲染函数实现的json数据展示组件[vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer)
+- 2.基于ems模块化打包的农历公历互转库[solarlunar-es](https://github.com/qiuquanwu/solarlunar-es)
+- 3.基于vue3+compositionAPI+script-setup实现的仿百度日历组件[vue-baidu-calendar](https://github.com/qiuquanwu/vue-baidu-calendar)
+- 4.基于react+react-hooks实现的仿百度日历组件[baidu-calendar](https://github.com/qiuquanwu/baidu-calendar)
+> 在线地址：[仿百度日历组件](https://isfive.gitee.io/baidu-calendar/)
+- 5.基于vue3+vite2实现的变量名翻译神器[ValGod](https://github.com/qiuquanwu/ValGod)
+> 在线地址：[变量名神器](http://isfive.gitee.io/vite-programer/)
+- 6.dart后端服务框架[DartX](https://github.com/qiuquanwu/dartX)
 
