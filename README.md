@@ -1,7 +1,7 @@
 ### Hi there 👋
 欢迎查看我的github，我是邱权武，一个15岁开始写代码的程序员。
 
-## Here are some ideas to get you started:
+## 这里列出个人开源的一些项目:
 
 - 1.基于vue3+渲染函数实现的json数据展示组件:[vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer)
 - 2.基于ems模块化打包的农历公历互转库:[solarlunar-es](https://github.com/qiuquanwu/solarlunar-es)
