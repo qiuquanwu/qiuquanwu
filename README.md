@@ -14,4 +14,5 @@
 - 5.基于vue3+vite2实现的变量名翻译神器:[ValGod](https://github.com/qiuquanwu/ValGod)
 > 在线地址：[变量名神器](http://isfive.gitee.io/vite-programer/)
 - 6.dart后端服务框架:[DartX](https://github.com/qiuquanwu/dartX)
+- 7.类似vika表格公式解析库:[math-expression-parse](https://github.com/qiuquanwu/math-expression-parse)
 
