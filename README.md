@@ -7,6 +7,7 @@
 ## 这里列出个人开源的一些项目:
 
 - 1.基于vue3+渲染函数实现的json数据展示组件:[vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer)
+[![vue3-json-viewer](https://github-readme-stats.vercel.app/api/pin/?username=qiuquanwu&repo=vue3-json-viewer)](https://github.com/qiuquanwu/vue3-json-viewer)
 - 2.基于ems模块化打包的农历公历互转库:[solarlunar-es](https://github.com/qiuquanwu/solarlunar-es)
 - 3.基于vue3+compositionAPI+script-setup实现的仿百度日历组件:[vue-baidu-calendar](https://github.com/qiuquanwu/vue-baidu-calendar)
 - 4.基于react+react-hooks实现的仿百度日历组件:[baidu-calendar](https://github.com/qiuquanwu/baidu-calendar)
