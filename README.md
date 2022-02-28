@@ -10,7 +10,8 @@
 
 [![vue3-json-viewer](https://github-readme-stats.vercel.app/api/pin/?username=qiuquanwu&repo=vue3-json-viewer)](https://github.com/qiuquanwu/vue3-json-viewer)
 - 2.基于ems模块化打包的农历公历互转库:[solarlunar-es](https://github.com/qiuquanwu/solarlunar-es)
- [![solarlunar-es](https://github-readme-stats.vercel.app/api/pin/?username=qiuquanwu&repo=solarlunar-es)](https://github.com/qiuquanwu/solarlunar-es)
+
+[![solarlunar-es](https://github-readme-stats.vercel.app/api/pin/?username=qiuquanwu&repo=solarlunar-es)](https://github.com/qiuquanwu/solarlunar-es)
 - 3.基于vue3+compositionAPI+script-setup实现的仿百度日历组件:[vue-baidu-calendar](https://github.com/qiuquanwu/vue-baidu-calendar)
 - 4.基于react+react-hooks实现的仿百度日历组件:[baidu-calendar](https://github.com/qiuquanwu/baidu-calendar)
 > 在线地址：[仿百度日历组件](https://isfive.gitee.io/baidu-calendar/)
