@@ -4,6 +4,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuquanwu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+- A curated list of awesome things related to 
+vue3:[vue3-about](https://github.com/qiuquanwu/vue3-about)
+[![vue3-about](https://github-readme-stats.vercel.app/api/pin/?username=qiuquanwu&repo=vue3-about)](https://github.com/qiuquanwu/vue3-about)
+
 ## 这里列出个人开源的一些项目:
 
 - 1.基于vue3+渲染函数实现的json数据展示组件:[vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer)
