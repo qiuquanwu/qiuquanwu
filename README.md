@@ -1,7 +1,7 @@
 ### Hi there 👋
 欢迎查看我的github，我是邱权武，一个15岁开始写代码的程序员。
 
-[!](https://api.daily.dev/devcards/116dbcfe4cd940bd8f5c949a1a532ea1.png?r=1ro)
+![](https://api.daily.dev/devcards/116dbcfe4cd940bd8f5c949a1a532ea1.png?r=1ro)
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuquanwu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
